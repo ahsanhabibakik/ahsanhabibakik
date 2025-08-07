@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=As-salaamu+Alaykum!+%F0%9F%91%8B;Full-Stack+Developer;Tech+Enthusiast;Blockchain+Explorer;AI+%26+Cloud+Learner" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=ahsanhabibakik&label=Profile%20views&color=0088cc&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=syedmirhabib&label=Profile%20views&color=0088cc&style=flat-square" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/ahsanhabibakik?label=Followers&style=flat-square&color=0088cc&logo=github" alt="GitHub followers" />
 <img src="https://img.shields.io/badge/From-Bangladesh-green?style=flat-square&logo=openmoji&logoColor=green" alt="From Bangladesh" />
 
