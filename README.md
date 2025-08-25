@@ -1,200 +1,233 @@
+<!--
+██╗  ██╗███████╗██╗     ██╗      ██████╗ 
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████║█████╗  ██║     ██║     ██║   ██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
+                                          
+I'M AHSAN HABIB AKIK
+-->
+
 <div align="center">
 
-# 👨‍💻 Ahsan Habib Akik
-### Full-Stack Developer | Tech Enthusiast | Blockchain Explorer
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ahsan%20Habib%20Akik&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=As-salaamu+Alaykum!+%F0%9F%91%8B;Full-Stack+Developer;Tech+Enthusiast;Blockchain+Explorer;AI+%26+Cloud+Learner;Building+Digital+Solutions" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahsanhabibakik&label=Profile%20views&color=0088cc&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ahsanhabibakik?label=Followers&style=for-the-badge&color=0088cc&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/From-Bangladesh-green?style=for-the-badge&logo=openmoji&logoColor=white" alt="From Bangladesh" />
-</p>
+<br/>
+
+<div align="center">
+
+### 👋 Welcome to my digital space!
+
+I'm a **passionate full-stack developer** from Bangladesh, crafting digital experiences and solving complex problems through code. Currently diving deep into modern web technologies and exploring the endless possibilities of software development.
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Amazing+Web+Applications;Learning+New+Technologies+Daily;Contributing+to+Open+Source;Solving+Real-World+Problems)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+<details open>
+<summary><h2>🚀 Quick Overview</h2></summary>
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-**🎯 Current Focus**
-- Building scalable web applications
-- Exploring AI & Machine Learning
-- Contributing to open source
-- Learning cloud technologies
+### 👨‍💻 About Me
+- 🌱 Currently mastering **React, Node.js & Cloud**
+- 🔭 Working on **innovative web solutions**
+- 🎯 Focused on **clean code & best practices**  
+- 💼 Open to **collaboration opportunities**
+- 📍 Based in **Dhaka, Bangladesh**
 
-**💡 Interests**
-- Full-Stack Development
-- Blockchain Technology  
-- Artificial Intelligence
-- Cloud Computing & DevOps
+### 🎯 Goals
+- 🚀 Build scalable applications
+- 🌐 Contribute to open source
+- 📚 Share knowledge through writing
+- 🤝 Connect with fellow developers
 
 </td>
-<td>
+<td width="50%">
 
-```javascript
-const developer = {
-    name: "Ahsan Habib Akik",
-    location: "Bangladesh 🇧🇩",
-    role: "Full-Stack Developer",
-    code: ["JavaScript", "Python", "TypeScript"],
-    askMeAbout: ["Web Dev", "Blockchain", "AI"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "Vue"],
-        backEnd: ["Node.js", "Express", "MongoDB"],
-        devOps: ["Docker", "AWS", "Nginx"],
-        tools: ["Git", "Figma", "VS Code"]
-    },
-    currentProject: "Building something amazing ⚡"
+### 💻 Current Status
+```typescript
+const currentlyWorking = {
+  learning: ["Advanced React Patterns", "Cloud Architecture"],
+  building: ["Portfolio Website", "E-commerce Platform"],
+  exploring: ["AI Integration", "Web3 Technologies"],
+  reading: ["Clean Code", "System Design"],
+  nextGoal: "Master Full-Stack Development"
 };
 ```
+
+### 📊 This Week
+- 🔥 **5** commits pushed
+- ⭐ **2** new repositories created  
+- 📝 **3** articles read
+- 🎯 **1** project completed
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+</details>
 
 ---
 
-## 📊 GitHub Analytics
+<details open>
+<summary><h2>🛠️ Technology Stack</h2></summary>
 
 <div align="center">
-  <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahsanhabibakik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahsanhabibakik&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117"/>
+
+### Languages & Core
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frontend Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanhabibakik&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanhabibakik&theme=react-dark&bg_color=0D1117&hide_border=true&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
-</div>
+</details>
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahsanhabibakik&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🌐 Let's Connect & Collaborate
+<details open>
+<summary><h2>📈 GitHub Statistics</h2></summary>
 
 <div align="center">
 
-### 📱 Primary Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsanhabibakik)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahsanhabibakik)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsanhabibakik)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanhabibakik@gmail.com)
+<table>
+<tr>
+<td width="50%">
 
-### 📝 Content & Learning
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19210438/ahsan-habib-akik)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ahsanhabibakik)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ahsanhabibakik)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ahsanhabibakik.hashnode.dev/)
+<img src="https://github-readme-stats.vercel.app/api?username=ahsanhabibakik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" alt="GitHub Stats" />
 
-### 💻 Code & Practice
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/ahsanhabibakik)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ahsanhabibakik)
-[![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.com/ahsanhabibakik)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ahsanhabibakik)
+</td>
+<td width="50%">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanhabibakik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" alt="Top Languages" />
 
----
+</td>
+</tr>
+</table>
 
-## 🎯 Featured Projects
+<br/>
 
-<div align="center">
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahsanhabibakik&custom_title=Contribution%20Activity&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=8B5CF6&point=A855F7&area=true&hide_border=true)
 
-### 🚀 Showcase Coming Soon
-*Currently working on some exciting projects that will be featured here*
+<br/>
 
-**Areas of Focus:**
-- Full-Stack Web Applications
-- Blockchain & DeFi Solutions  
-- AI/ML Integration Projects
-- Open Source Contributions
-
-*Stay tuned for project updates!* ⭐
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahsanhabibakik&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1)](https://git.io/streak-stats)
 
 </div>
 
+</details>
+
 ---
 
-## 📈 Activity & Contributions
+<details>
+<summary><h2>🎯 Featured Projects</h2></summary>
 
 <div align="center">
-  
-![Snake animation](https://github.com/ahsanhabibakik/ahsanhabibakik/blob/output/github-contribution-grid-snake.svg)
+
+### 🚧 Coming Soon...
+
+I'm currently working on some exciting projects that will showcase my skills and creativity. Stay tuned for:
+
+**🌟 Upcoming Projects:**
+- **E-Commerce Platform** - Full-stack React & Node.js application
+- **Task Management App** - Modern productivity tool with real-time features  
+- **Portfolio Website** - Interactive showcase of my work and skills
+- **Open Source Contributions** - Contributing to community projects
+
+*These projects will demonstrate my expertise in modern web development, clean architecture, and user-centered design.*
 
 </div>
 
+</details>
+
 ---
 
-## 💭 Daily Inspiration
+<details>
+<summary><h2>🌐 Let's Connect</h2></summary>
 
 <div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border_radius=8)
+
+### 📫 Reach out to me!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/ahsanhabibakik)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/ahsanhabibakik)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:ahsanhabibakik@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://github.com/ahsanhabibakik)
+
+<br/>
+
+### 💼 Professional Profiles
+
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19210438/ahsan-habib-akik)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/ahsanhabibakik)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/ahsanhabibakik)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ahsanhabibakik)
+
+<br/>
+
+### 💬 Let's collaborate on:
+- 🚀 **Innovative web applications**
+- 🌐 **Open source projects**  
+- 📚 **Knowledge sharing & mentoring**
+- 🤝 **Professional opportunities**
 
 </div>
 
+</details>
+
 ---
 
 <div align="center">
 
-### 🌟 Thanks for Visiting! 
+### ⚡ Fun Fact
+*I love turning coffee into code and ideas into reality!* ☕️➡️💻
 
-**"Building the future, one commit at a time"** 
+<br/>
 
-*Let's connect and create something amazing together* 🚀
+![Visitor Count](https://profile-counter.glitch.me/ahsanhabibakik/count.svg)
 
-<sub>💡 Always learning, always growing, always coding</sub>
+<br/>
+
+---
+
+<sub>💡 **"The best way to predict the future is to create it"** - Peter Drucker</sub>
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
