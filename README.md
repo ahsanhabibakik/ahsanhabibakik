@@ -56,20 +56,26 @@ I'm a **passionate full-stack developer** from Bangladesh, crafting digital expe
 
 ### 💻 Current Status
 ```typescript
-const currentlyWorking = {
+const developer = {
   learning: ["Advanced React Patterns", "Cloud Architecture"],
-  building: ["Portfolio Website", "E-commerce Platform"],
-  exploring: ["AI Integration", "Web3 Technologies"],
+  building: ["Portfolio Website", "Web Applications"],
+  exploring: ["AI Integration", "Modern Frameworks"],
   reading: ["Clean Code", "System Design"],
-  nextGoal: "Master Full-Stack Development"
+  nextGoal: "Master Full-Stack Development",
+  availableFor: "Freelance & Collaboration"
 };
 ```
 
-### 📊 This Week
-- 🔥 **5** commits pushed
-- ⭐ **2** new repositories created  
-- 📝 **3** articles read
-- 🎯 **1** project completed
+### 📊 GitHub Activity
+![Commits](https://img.shields.io/github/commit-activity/m/ahsanhabibakik/ahsanhabibakik?style=flat-square&color=6366F1)
+![Last Commit](https://img.shields.io/github/last-commit/ahsanhabibakik/ahsanhabibakik?style=flat-square&color=8B5CF6)
+![Repo Size](https://img.shields.io/github/repo-size/ahsanhabibakik/ahsanhabibakik?style=flat-square&color=A855F7)
+
+### 🎯 Current Focus
+- 🔥 Building **modern web applications**
+- ⭐ Contributing to **open source projects**  
+- 📝 Learning **advanced development patterns**
+- 🎯 Improving **code quality & architecture**
 
 </td>
 </tr>
@@ -122,28 +128,21 @@ const currentlyWorking = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahsanhabibakik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff&custom_title=GitHub%20Overview" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahsanhabibakik&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff&custom_title=Most%20Used%20Languages" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahsanhabibakik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" alt="GitHub Stats" />
+<br/><br/>
 
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanhabibakik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahsanhabibakik&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=6366F1&dates=ffffff)](https://git.io/streak-stats)
 
 <br/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahsanhabibakik&custom_title=Contribution%20Activity&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=8B5CF6&point=A855F7&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahsanhabibakik&custom_title=Contribution%20Graph&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=8B5CF6&point=A855F7&area=true&hide_border=true)
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahsanhabibakik&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1)](https://git.io/streak-stats)
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=ahsanhabibakik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
