@@ -11,7 +11,7 @@ I'M AHSAN HABIB AKIK
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ahsan%20Habib%20Akik&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ahsan%20Habib%20Akik&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=50)
 
 </div>
 
@@ -67,15 +67,22 @@ const developer = {
 ```
 
 ### 📊 GitHub Activity
-![Commits](https://img.shields.io/github/commit-activity/m/ahsanhabibakik/ahsanhabibakik?style=flat-square&color=6366F1)
-![Last Commit](https://img.shields.io/github/last-commit/ahsanhabibakik/ahsanhabibakik?style=flat-square&color=8B5CF6)
-![Repo Size](https://img.shields.io/github/repo-size/ahsanhabibakik/ahsanhabibakik?style=flat-square&color=A855F7)
+![Profile Views](https://komarev.com/ghpvc/?username=ahsanhabibakik&style=flat-square&color=6366F1&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ahsanhabibakik?style=flat-square&color=8B5CF6&label=Followers)
+![Stars](https://img.shields.io/github/stars/ahsanhabibakik?style=flat-square&color=A855F7&label=Total+Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ahsanhabibakik&query=$.public_repos&style=flat-square&color=06B6D4&label=Public+Repos)
 
-### 🎯 Current Focus
-- 🔥 Building **modern web applications**
-- ⭐ Contributing to **open source projects**  
-- 📝 Learning **advanced development patterns**
-- 🎯 Improving **code quality & architecture**
+### 🔥 What I'm Working On
+
+```javascript
+const currentlyFocused = {
+  learning: ["System Design", "Microservices", "DevOps"],
+  building: ["E-commerce Platform", "Real-time Chat App"],
+  reading: ["Clean Architecture", "Designing Data-Intensive Applications"],
+  practicing: ["LeetCode Problems", "Design Patterns"],
+  exploring: ["AI/ML Integration", "Web3 Technologies"]
+};
+```
 
 </td>
 </tr>
@@ -90,32 +97,53 @@ const developer = {
 
 <div align="center">
 
-### Languages & Core
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-### Frontend Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Programming Languages**
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+**Frontend Technologies**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Development Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -128,21 +156,32 @@ const developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahsanhabibakik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff&custom_title=GitHub%20Overview" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahsanhabibakik&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+<!-- GitHub Stats Row -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsanhabibakik&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=ffffff&ring_color=6366F1&fire=A855F7&currStreakLabel=6366F1" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanhabibakik&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff&exclude_repo=ahsanhabibakik" alt="Top Languages" />
+</div>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahsanhabibakik&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=6366F1&dates=ffffff)](https://git.io/streak-stats)
+<!-- GitHub Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ahsanhabibakik&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=6366F1&sideLabels=8B5CF6&dates=ffffff&stroke=6366F1" alt="GitHub Streak" />
+</div>
 
 <br/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahsanhabibakik&custom_title=Contribution%20Graph&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=8B5CF6&point=A855F7&area=true&hide_border=true)
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanhabibakik&custom_title=Annual%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&color=6366F1&line=8B5CF6&point=A855F7&area=true&hide_border=true&area_color=6366F1" alt="Contribution Graph" />
+</div>
 
 <br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=ahsanhabibakik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahsanhabibakik&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</div>
 
 </div>
 
@@ -155,17 +194,63 @@ const developer = {
 
 <div align="center">
 
-### 🚧 Coming Soon...
+<table>
+<tr>
+<td align="center" width="50%">
 
-I'm currently working on some exciting projects that will showcase my skills and creativity. Stay tuned for:
+### 🛒 E-Commerce Platform
 
-**🌟 Upcoming Projects:**
-- **E-Commerce Platform** - Full-stack React & Node.js application
-- **Task Management App** - Modern productivity tool with real-time features  
-- **Portfolio Website** - Interactive showcase of my work and skills
-- **Open Source Contributions** - Contributing to community projects
+<img src="https://img.icons8.com/dusk/64/shopping-cart.png" alt="E-commerce"/>
 
-*These projects will demonstrate my expertise in modern web development, clean architecture, and user-centered design.*
+**Tech Stack:** React, Node.js, MongoDB, Stripe
+
+A full-featured e-commerce platform with user authentication, product management, shopping cart, and secure payment integration.
+
+*Status: In Development* 🛠️
+
+---
+
+### 📝 Task Management App
+
+<img src="https://img.icons8.com/dusk/64/task.png" alt="Task Manager"/>
+
+**Tech Stack:** Next.js, TypeScript, PostgreSQL, Socket.io
+
+Real-time collaborative task management with drag-and-drop functionality and team features.
+
+*Status: Planning Phase* 📋
+
+</td>
+<td align="center" width="50%">
+
+### 🌐 Portfolio Website
+
+<img src="https://img.icons8.com/dusk/64/web.png" alt="Portfolio"/>
+
+**Tech Stack:** React, Three.js, Framer Motion
+
+Interactive 3D portfolio showcasing projects with smooth animations and modern design.
+
+*Status: Design Phase* 🎨
+
+---
+
+### 🤖 AI Chat Assistant
+
+<img src="https://img.icons8.com/dusk/64/bot.png" alt="AI Bot"/>
+
+**Tech Stack:** Python, FastAPI, OpenAI API, React
+
+Intelligent chat assistant with natural language processing and contextual responses.
+
+*Status: Research Phase* 🔍
+
+</td>
+</tr>
+</table>
+
+**💻 Open Source Contributions:**
+Actively contributing to React ecosystem and developer tools. Check out my repositories for latest contributions!
 
 </div>
 
@@ -178,31 +263,84 @@ I'm currently working on some exciting projects that will showcase my skills and
 
 <div align="center">
 
-### 📫 Reach out to me!
+### 📫 Connect With Me
+
+<div align="center">
+
+<!-- Primary Social Links -->
+<a href="https://linkedin.com/in/ahsanhabibakik" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/ahsanhabibakik" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
+</a>
+<a href="mailto:ahsanhabibakik@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+</a>
+<a href="https://github.com/ahsanhabibakik" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+</a>
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/ahsanhabibakik)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/ahsanhabibakik)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:ahsanhabibakik@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://github.com/ahsanhabibakik)
+### 💼 Professional & Development Platforms
+
+<div align="center">
+
+<a href="https://stackoverflow.com/users/19210438/ahsan-habib-akik" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+</a>
+<a href="https://leetcode.com/ahsanhabibakik" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+<a href="https://codepen.io/ahsanhabibakik" target="_blank">
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+</a>
 
 <br/>
 
-### 💼 Professional Profiles
+<a href="https://dev.to/ahsanhabibakik" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+</a>
+<a href="https://medium.com/@ahsanhabibakik" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+<a href="https://hashnode.com/@ahsanhabibakik" target="_blank">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+</a>
 
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19210438/ahsan-habib-akik)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/ahsanhabibakik)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/ahsanhabibakik)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ahsanhabibakik)
+</div>
 
 <br/>
 
-### 💬 Let's collaborate on:
-- 🚀 **Innovative web applications**
-- 🌐 **Open source projects**  
-- 📚 **Knowledge sharing & mentoring**
-- 🤝 **Professional opportunities**
+### 🤝 Open for Collaboration
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/dusk/64/web.png" alt="Web Apps"/><br/>
+  <b>Web Applications</b><br/>
+  <sub>Full-stack development</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/dusk/64/github.png" alt="Open Source"/><br/>
+  <b>Open Source</b><br/>
+  <sub>Community projects</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/dusk/64/learning.png" alt="Mentoring"/><br/>
+  <b>Mentoring</b><br/>
+  <sub>Knowledge sharing</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/dusk/64/handshake.png" alt="Opportunities"/><br/>
+  <b>Opportunities</b><br/>
+  <sub>Professional growth</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -217,7 +355,14 @@ I'm currently working on some exciting projects that will showcase my skills and
 
 <br/>
 
-![Visitor Count](https://profile-counter.glitch.me/ahsanhabibakik/count.svg)
+<!-- Visitor Counter and Social Proof -->
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ahsanhabibakik&color=6366F1&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/ahsanhabibakik?style=flat-square&color=8B5CF6&label=Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/ahsanhabibakik?style=flat-square&color=A855F7&label=Stars)
+
+</div>
 
 <br/>
 
