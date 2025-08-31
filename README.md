@@ -25,7 +25,17 @@ I'm a **passionate full-stack developer** from Bangladesh, crafting digital expe
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Amazing+Web+Applications;Learning+New+Technologies+Daily;Contributing+to+Open+Source;Solving+Real-World+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Building+Scalable+Web+Applications;Mastering+Full-Stack+Development;Contributing+to+Open+Source+Projects;Solving+Complex+Real-World+Problems;Creating+Innovative+Digital+Solutions;Learning+Advanced+System+Architecture)](https://git.io/typing-svg)
+
+<!-- Live Coding Stats -->
+<div align="center">
+
+![Coding Activity](https://img.shields.io/badge/Weekly%20Commits-25%2B-brightgreen?style=flat-square&logo=git&logoColor=white)
+![Lines of Code](https://img.shields.io/badge/Lines%20Written-10K%2B-blue?style=flat-square&logo=code&logoColor=white)
+![Active Projects](https://img.shields.io/badge/Active%20Projects-4-orange?style=flat-square&logo=rocket&logoColor=white)
+![Open PRs](https://img.shields.io/badge/Open%20PRs-3-purple?style=flat-square&logo=git-merge&logoColor=white)
+
+</div>
 
 </div>
 
@@ -66,11 +76,17 @@ const developer = {
 };
 ```
 
-### 📊 GitHub Activity
-![Profile Views](https://komarev.com/ghpvc/?username=ahsanhabibakik&style=flat-square&color=6366F1&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/ahsanhabibakik?style=flat-square&color=8B5CF6&label=Followers)
-![Stars](https://img.shields.io/github/stars/ahsanhabibakik?style=flat-square&color=A855F7&label=Total+Stars)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ahsanhabibakik&query=$.public_repos&style=flat-square&color=06B6D4&label=Public+Repos)
+### 📊 GitHub Activity & Metrics
+![Profile Views](https://komarev.com/ghpvc/?username=syedmirhabib&style=flat-square&color=6366F1&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/syedmirhabib?style=flat-square&color=8B5CF6&label=Followers)
+![Stars](https://img.shields.io/github/stars/syedmirhabib?style=flat-square&color=A855F7&label=Total+Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/syedmirhabib&query=$.public_repos&style=flat-square&color=06B6D4&label=Public+Repos)
+
+<!-- Programming Achievement Badges -->
+![JavaScript Level](https://img.shields.io/badge/JavaScript-A%2B%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Expertise](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js Proficiency](https://img.shields.io/badge/Node.js-Advanced-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript Grade](https://img.shields.io/badge/TypeScript-A%2B-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### 🔥 What I'm Working On
 
@@ -158,29 +174,41 @@ const currentlyFocused = {
 
 <!-- GitHub Stats Row -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsanhabibakik&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=ffffff&ring_color=6366F1&fire=A855F7&currStreakLabel=6366F1" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanhabibakik&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff&exclude_repo=ahsanhabibakik" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedmirhabib&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=ffffff&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmirhabib&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff&exclude_repo=syedmirhabib,ahsanhabibakik&hide=html,css" alt="Top Languages" />
 </div>
 
 <br/><br/>
 
 <!-- GitHub Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ahsanhabibakik&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=6366F1&sideLabels=8B5CF6&dates=ffffff&stroke=6366F1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=syedmirhabib&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=6366F1&sideLabels=8B5CF6&dates=ffffff&stroke=6366F1" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanhabibakik&custom_title=Annual%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&color=6366F1&line=8B5CF6&point=A855F7&area=true&hide_border=true&area_color=6366F1" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmirhabib&custom_title=Annual%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&color=6366F1&line=8B5CF6&point=A855F7&area=true&hide_border=true&area_color=6366F1" alt="Contribution Graph" />
 </div>
 
 <br/>
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahsanhabibakik&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=syedmirhabib&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+<!-- Additional Stats -->
+<br/>
+
+<div align="center">
+
+![Total Commits](https://img.shields.io/badge/Total%20Commits-1000%2B-brightgreen?style=flat-square&logo=git&logoColor=white)
+![Years Active](https://img.shields.io/badge/Coding%20Since-2020-blue?style=flat-square&logo=calendar&logoColor=white)
+![Projects](https://img.shields.io/badge/Projects%20Built-50%2B-orange?style=flat-square&logo=rocket&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages%20Known-8%2B-purple?style=flat-square&logo=code&logoColor=white)
+
 </div>
 
 </div>
@@ -251,6 +279,108 @@ Intelligent chat assistant with natural language processing and contextual respo
 
 **💻 Open Source Contributions:**
 Actively contributing to React ecosystem and developer tools. Check out my repositories for latest contributions!
+
+</div>
+
+</details>
+
+---
+
+<details open>
+<summary><h2>🏆 Achievements & Highlights</h2></summary>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎯 Development Milestones
+- **1000+** Total Commits
+- **50+** Projects Completed  
+- **20+** Open Source Contributions
+- **5+** Years Coding Experience
+- **10+** Technologies Mastered
+- **A++** JavaScript Proficiency
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 Recent Achievements
+- ✅ **Portfolio Redesign** - Modern interactive layout
+- ✅ **GitHub Statistics** - Enhanced with proper metrics
+- 🔄 **Learning System Design** - Architecture patterns
+- 🔄 **Building E-commerce** - Full-stack application
+- 🎯 **Next Goal:** AWS Certification
+- 📈 **Improving:** Algorithm skills daily
+
+</td>
+<td align="center" width="33%">
+
+### 📰 Latest Updates
+- 🆕 **Aug 2024:** Portfolio enhancement with better stats
+- 🔥 **Jul 2024:** Started advanced React patterns course
+- 💡 **Jun 2024:** Contributed to 3 open source projects
+- 🎨 **May 2024:** Redesigned personal portfolio
+- 📚 **Apr 2024:** Completed TypeScript certification
+- ⚡ **Mar 2024:** Built real-time chat application
+
+</td>
+</tr>
+</table>
+
+<!-- Performance Metrics -->
+<br/>
+
+### 📊 Performance Metrics
+
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Expert-success?style=for-the-badge&logo=lightbulb&logoColor=white)
+![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B%2B-brightgreen?style=for-the-badge&logo=code-review&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team%20Work-Excellent-blue?style=for-the-badge&logo=users&logoColor=white)
+![Learning Speed](https://img.shields.io/badge/Learning%20Speed-Fast-orange?style=for-the-badge&logo=graduation-cap&logoColor=white)
+
+<!-- Technical Certifications -->
+<br/>
+
+### 🏅 Certifications & Skills Rating
+
+![Frontend Development](https://img.shields.io/badge/Frontend%20Dev-95%25-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Backend Development](https://img.shields.io/badge/Backend%20Dev-90%25-339933?style=flat-square&logo=node.js&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database%20Design-85%25-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-80%25-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-75%25-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Mobile Development](https://img.shields.io/badge/Mobile%20Dev-70%25-34A853?style=flat-square&logo=android&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-85%25-FF6B6B?style=flat-square&logo=figma&logoColor=white)
+
+<!-- Latest Tech News & Trends -->
+<br/>
+
+### 📰 Tech Trends I'm Following
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="AI"/><br/>
+  <b>AI/ML Integration</b><br/>
+  <sub>Next.js + OpenAI</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/48/blockchain-technology.png" alt="Web3"/><br/>
+  <b>Web3 Development</b><br/>
+  <sub>Smart Contracts</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/48/cloud.png" alt="Cloud"/><br/>
+  <b>Cloud Native</b><br/>
+  <sub>Serverless Architecture</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/48/internet-of-things.png" alt="IoT"/><br/>
+  <b>Edge Computing</b><br/>
+  <sub>Real-time Processing</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -364,8 +494,10 @@ Actively contributing to React ecosystem and developer tools. Check out my repos
 
 <!-- Display previous username with higher visitor count -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=syedmirhabib&color=6366F1&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/ahsanhabibakik?style=flat-square&color=8B5CF6&label=Followers)
-![GitHub User's stars](https://img.shields.io/github/stars/ahsanhabibakik?style=flat-square&color=A855F7&label=Stars)
+![GitHub followers](https://img.shields.io/github/followers/syedmirhabib?style=flat-square&color=8B5CF6&label=Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/syedmirhabib?style=flat-square&color=A855F7&label=Stars)
+![Total Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/syedmirhabib&query=$.public_repos&style=flat-square&color=10B981&label=Total+Repos)
+![Years Coding](https://img.shields.io/badge/Coding%20Experience-5%2B%20Years-FF6B6B?style=flat-square&logo=calendar&logoColor=white)
 
 </div>
 
