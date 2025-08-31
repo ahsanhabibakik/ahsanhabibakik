@@ -358,7 +358,12 @@ Actively contributing to React ecosystem and developer tools. Check out my repos
 <!-- Visitor Counter and Social Proof -->
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ahsanhabibakik&color=6366F1&style=flat-square&label=Profile+Views)
+<!-- Hidden visitor counter for current username (keeps recording visits in background) -->
+<img src="https://komarev.com/ghpvc/?username=ahsanhabibakik&color=6366F1&style=flat-square&label=Profile+Views" style="display:none;" alt="Hidden Counter" />
+<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=ahsanhabibakik&color=6366F1&style=flat-square&label=Profile+Views) -->
+
+<!-- Display previous username with higher visitor count -->
+![Visitor Count](https://komarev.com/ghpvc/?username=syedmirhabib&color=6366F1&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/ahsanhabibakik?style=flat-square&color=8B5CF6&label=Followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/ahsanhabibakik?style=flat-square&color=A855F7&label=Stars)
 
